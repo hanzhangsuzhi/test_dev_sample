@@ -1,3 +1,4 @@
 # test_dev_sample
 测试开发sample
-hahaha
+
+# 这是我练习的第一个sample
