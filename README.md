@@ -1,4 +1,1 @@
-# test_dev_sample
-测试开发sample
-
-# 这是我练习的第一个sample
+This is a project of test_platform written by hanzhangsuzhi. -
